@@ -1,7 +1,0 @@
-pandas
-numpy
-scikit-learn
-spacy
-truecase
-xgboost
-unidecode
