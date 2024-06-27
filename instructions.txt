@@ -1,0 +1,61 @@
+Hello! 
+
+ 
+
+Thank you for taking the time to do Depop's coding test 🙏.  
+
+ 
+
+The project is trying to catch keyword spamming 🍖, which is when sellers will name loads of unrelated, irrelevant keywords in the description of the item they're selling to improve their ranking in the search page 📈. The buyer's experience is that they search for 'Levi Jeans' 👖, but see Diesel jeans ⛽️ highly ranked, because the seller spammed the keyword 'Levi' in their product description. This is frustrating for the buyer 😖.
+
+Here are examples of product descriptions with keyword spam:
+
+
+“““
+Low waist/rise diesel bootcut/flared jeans. Size XS/6. Great condition. Cool red stitching details.
+Message for any questions :)Uk shipping only
+No returns
+#vintage #diesel #denim #lowrise #levi #wrangler #lee #y2k #90s #2010s #blue #black #faded
+
+“““
+
+
+“““
+Low rise y2k blue Diesel bootcut jeans
+Size label W29 L32
+Flat laid measurements below —
+32 inch waist ( sits on hips )
+7 inch rise
+32 inch inseamFREE UK SHIP
+£15 international
+Ignore: 80s 90s y2k baggy navy jeans denim levi calvin klein
+”””
+
+ 
+
+If we can classify item descriptions as 'spammy' 🍖, we can demote the item in the ranking algorithm 📉. This piece of work is trying to build that classifier 🔨.
+
+This test imagines you are pairing with a junior data scientist on the work they’ve done to train this model 🤝. This colleague shared a notebook with their code 📔. Usually, of course, you would look at your colleague’s code and give them feedback to coach their development 👩‍🏫, but in this instance, please take over the work and get it to your high standards 🏆.
+
+Your goal is to create the best model by identifying the flaws in the current approach and fixing the most impactful issues (within the time you can allocate to this task).
+
+As you will see, there are a bunch of issues:
+
+Some errors in ML logic 🔬
+
+Badly tuned model
+
+Limited features
+
+It lacks structure 🏗 (perhaps because it's in a notebook) & it's un-pythonic in places
+
+And generally it needs a bunch of improvements 🛠.   
+
+  
+
+There's too much going on to perfect everything and build a best in class model, so prioritise the things you think are the most important over that time. Then let us know further changes you would make but have not had time ⏰, and suggest next steps 🧗🏿‍♀️ for the project.  
+
+ 
+
+After you submit your work on this platform, we’ll schedule a follow-up interview where you can explain your thoughts and decisions, and we can discuss the task in-depth.
+
